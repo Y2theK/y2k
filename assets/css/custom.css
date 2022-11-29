@@ -97,13 +97,6 @@
   resize: none;
   /* resize: vertical; */
 }
-@media screen and (max-width: 600px) {
-  .portfolios {
-    grid-template-columns: repeat(1, 1fr);
-    padding-bottom: 6rem;
-    margin-top: 1rem;
-  }
-}
 
 .techstacks {
   display: grid;
@@ -121,4 +114,16 @@ techstacks .techstack-item {
   height: 100px;
   object-fit: cover;
   border-radius: 15px;
+}
+@media screen and (max-width: 600px) {
+  .portfolios {
+    grid-template-columns: repeat(1, 1fr);
+    padding-bottom: 6rem;
+    margin-top: 1rem;
+  }
+  .techstacks {
+    grid-template-columns: repeat(3, 1fr);
+    padding-bottom: 6rem;
+    margin-top: 1rem;
+  }
 }
