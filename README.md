@@ -2,17 +2,9 @@
 
 <h3 align="center" >Hi 👋, I'm Ye Yint Kyaw</h3>
 
-<h4 align="center">A passionate web developer</h4>
+<h4 align="center">A Passionate Developer</h4>
 
-- 🌱 I’m currently learning **WEB DEVELOPMENT**
-
-- 💬 Ask me about **Laravel, PHP, JS , Vue , Nodejs**
-
-- 📫 How to reach me **yeyintkyaw.dev@gmail.com**
-
----
-
-<h3 align="left">Tech Stacks :</h3><br/>
+<br/>
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
